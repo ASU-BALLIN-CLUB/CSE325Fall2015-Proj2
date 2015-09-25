@@ -1,9 +1,19 @@
+//************************************************************************************************************
+// FILE: port.h
 //
-//  port.h
+// DESCRIPTION
 //
-//	Proj02
-//  Lab Partners: Sean Slamka
-//  Email: sslamka@asu.edu
-//  CSE325 Embedded Microprocessor Systems
-//  Fall 2015
-//
+// AUTHOR
+// Sean E Slamka (sslamka@asu.edu)
+// Computer Science & Engineering
+// Arizona State University, Tempe AZ 85287-8809
+// Web: http://www.devlang.com
+//************************************************************************************************************
+
+
+#ifndef PORT_H_
+#define PORT_H_
+
+
+
+#endif /* PORT_H_ */
